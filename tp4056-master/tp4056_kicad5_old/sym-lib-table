@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "charger_stepup-rescue")(type "Legacy")(uri "${KIPRJMOD}/charger_stepup-rescue.lib")(options "")(descr ""))
+)
